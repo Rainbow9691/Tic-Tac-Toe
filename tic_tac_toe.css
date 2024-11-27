@@ -6,6 +6,9 @@
 body {
     background-color: aquamarine;
     text-align: center;
+    background-image: url(man.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container {
